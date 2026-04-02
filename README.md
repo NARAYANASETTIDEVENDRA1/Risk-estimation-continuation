@@ -1,1 +1,0 @@
-In the N3 results pack there are links to returns and code file to run in gpu . we can give the data according to assets and can run appropriate code file based on no of assets and whether it is kde model or no kde model . we have to change the parameters in code file like step size , horizon as required
